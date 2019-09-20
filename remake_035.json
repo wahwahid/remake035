@@ -1,0 +1,157 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    },
+    "Preview": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 1
+    }
+  },
+  "Time": {
+    "Hours": {
+      "Tens": {
+        "X": 169,
+        "Y": 303,
+        "ImageIndex": 2,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 196,
+        "Y": 303,
+        "ImageIndex": 2,
+        "ImagesCount": 10
+      }
+    },
+    "Minutes": {
+      "Tens": {
+        "X": 234,
+        "Y": 303,
+        "ImageIndex": 2,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 261,
+        "Y": 303,
+        "ImageIndex": 2,
+        "ImagesCount": 10
+      }
+    }
+  },
+  "Activity": {
+    "Pulse": {
+      "TopLeftX": 186,
+      "TopLeftY": 331,
+      "BottomRightX": 268,
+      "BottomRightY": 358,
+      "Alignment": "TopCenter",
+      "Spacing": 1,
+      "ImageIndex": 2,
+      "ImagesCount": 10
+    },
+    "Steps": {
+      "Step": {
+        "TopLeftX": 187,
+        "TopLeftY": 123,
+        "BottomRightX": 267,
+        "BottomRightY": 139,
+        "Alignment": "TopCenter",
+        "Spacing": 1,
+        "ImageIndex": 12,
+        "ImagesCount": 10
+      }
+    }
+  },
+  "Date": {
+    "MonthAndDay": {
+      "Separate": {
+        "Day": {
+          "TopLeftX": 309,
+          "TopLeftY": 218,
+          "BottomRightX": 341,
+          "BottomRightY": 234,
+          "Alignment": "TopCenter",
+          "Spacing": 1,
+          "ImageIndex": 12,
+          "ImagesCount": 10
+        }
+      },
+      "TwoDigitsMonth": true,
+      "TwoDigitsDay": true
+    },
+    "WeekDay": {
+      "X": 256,
+      "Y": 157,
+      "ImageIndex": 11,
+      "ImagesCount": 21
+    }
+  },
+  "Battery": {
+    "Text": {
+      "TopLeftX": 101,
+      "TopLeftY": 218,
+      "BottomRightX": 148,
+      "BottomRightY": 234,
+      "Alignment": "TopRight",
+      "Spacing": 1,
+      "ImageIndex": 12,
+      "ImagesCount": 10
+    }
+  },
+  "AnalogDialFace": {
+    "Hours": {
+      "unknown1": 0,
+      "unknown2": 0,
+      "unknown3": {
+        "X": 0,
+        "Y": 0
+      },
+      "unknown4": {
+        "X": 0,
+        "Y": 0
+      },
+      "CenterImage": {
+        "X": 27,
+        "Y": 229,
+        "ImageIndex": 22
+      }
+    },
+    "Minutes": {
+      "unknown1": 0,
+      "unknown2": 0,
+      "unknown3": {
+        "X": 0,
+        "Y": 0
+      },
+      "unknown4": {
+        "X": 0,
+        "Y": 0
+      },
+      "CenterImage": {
+        "X": 29,
+        "Y": 229,
+        "ImageIndex": 23
+      }
+    },
+    "Seconds": {
+      "unknown1": 0,
+      "unknown2": 0,
+      "unknown3": {
+        "X": 0,
+        "Y": 0
+      },
+      "unknown4": {
+        "X": 0,
+        "Y": 0
+      },
+      "CenterImage": {
+        "X": 29,
+        "Y": 229,
+        "ImageIndex": 24
+      }
+    }
+  }
+}
