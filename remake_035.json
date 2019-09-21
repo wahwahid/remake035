@@ -79,23 +79,22 @@
           "ImagesCount": 10
         }
       },
-      "TwoDigitsMonth": true,
       "TwoDigitsDay": true
     },
     "WeekDay": {
       "X": 202,
       "Y": 124,
-      "ImageIndex": 11,
-      "ImagesCount": 21
+      "ImageIndex": 25,
+      "ImagesCount": 7
     }
   },
   "Battery": {
     "Text": {
-      "TopLeftX": 80,
+      "TopLeftX": 90,
       "TopLeftY": 172,
       "BottomRightX": 117,
       "BottomRightY": 185,
-      "Alignment": "TopRight",
+      "Alignment": "TopCenter",
       "Spacing": 0,
       "ImageIndex": 12,
       "ImagesCount": 10
