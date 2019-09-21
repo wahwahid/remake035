@@ -79,6 +79,7 @@
           "ImagesCount": 10
         }
       },
+      "TwoDigitsMonth": true,
       "TwoDigitsDay": true
     },
     "WeekDay": {
